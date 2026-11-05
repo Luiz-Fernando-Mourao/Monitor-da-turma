@@ -1,15 +1,15 @@
-# Seu apelido aqui
+#tiaguinho
 
-Oi, turma! Eu sou **seu apelido** e esta é a minha página no mural.
+Oi, turma! Eu sou tiaguinho e esta é a minha página no mural.
 
 ## Sobre mim
 
-- **Hobby:** escreva aqui o que você gosta de fazer no tempo livre
-- **Música ou jogo favorito:** escreva aqui
-- **Uma curiosidade:** algo legal sobre você (opcional)
+- **Hobby:** gosto de jogar squash
+- **Música ou jogo favorito:** meu jogo favorito é squash
+- **Uma curiosidade: pratico pesca esportiva
 
 ## Minha meta para o curso
 
-Escreva aqui, em uma ou duas frases, o que você quer aprender ou conquistar no curso.
+quero aprender e passar direto
 
-> Uma frase que me inspira: "escreva aqui (opcional)"
+> Uma frase que me inspira: se ainda nao deu errado é porque ainda nao acabou
